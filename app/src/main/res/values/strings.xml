@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Lottery</string>
+    <string name="lot1">งวดที่(1) 1/11/2017</string>
+    <string name="result">ผลรางวัล</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string-array name="lotteries">
+        <item>งวดที่ (1) 1/11/2017</item>
+        <!--<item>งวดที่ (2) 16/10/2017</item>-->
+        <!--<item>lot1 1/10/2017</item>-->
+        <!--<item>lot2 16/9/2017</item>-->
+        <!--<item>lot1 1/9/2017</item>-->
+    </string-array>
+    <string name="title_activity_main3">ReturnPage</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_lots"
+            android:icon="@drawable/ic_format_list_bulleted_black_24dp"
+            android:title="Lottery" />
+        <item
+            android:id="@+id/nav_web"
+            android:icon="@drawable/ic_web_black_24dp"
+            android:title="Website" />
+    </group>
+
+</menu>
